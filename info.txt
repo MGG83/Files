@@ -1,0 +1,108 @@
+1_NMA_J_MISCLV_Daily_Load_Dim_Allianz
+
+✅ 95,864
+
+
+2_NMA_J_MISCLV_Daily_Load_AccOraIns
+
+
+
+
+📌 Общ брой редове:
+✅ 277,702
+
+3_NMA_J_MISCLV_Daily_Load_Acc_OPUSAuto
+
+📌 Общ брой редове
+✅ 33,213
+
+
+4_NMA_J_MISCLV_Daily_Load_Acc_ZAD
+
+
+📌 Rows
+✅ 16,895,052
+
+6_NMA_J_MISCLV_Daily_Load_AccOraNrg
+
+
+
+📌 Общ брой редове
+✅ 2,877
+
+
+
+7_NMA_J_MISCLV_Daily_Load_Controling
+
+40 milli
+
+
+
+8_NMA_J_MISCLV_Daily_Load_DWH_Maitanance
+99,065 rows
+
+9_NMA_J_MISCLV_Daily_Load_TR_BY_DC_parallel
+3 milli
+
+
+
+
+60 mill
+
+
+---94
+Job_Loading_Health_Tables
+17,642,390 rows
+
+NMA_J_RAWDATA_FIRST_LOAD_TBL
+7 mill
+NMA_J_RAWDATA_FROM_CORESYS_PART01
+37,741,662
+NMA_J_RAWDATA_FROM_CORESYS_PART02
+27,211,369
+NMA_J_RAWDATA_FROM_CORESYS_PART03
+7 million
+NMA_J_RAWDATA_FROM_CORESYS_PART03A
+166,033 
+NMA_J_RAWDATA_FROM_CORESYS_PART04
+22,321,238
+NMA_J_RAWDATA_FROM_CORESYS_PART04A
+2000000
+
+
+
+total: 121,082,692
+
+---83
+J_RI_OraINS_4Pricing_3_PolObjDocSys_202410
+2,071,566
+J_RI_OraINS_4Pricing_2_13GR_202502_ADV 
+200000
+J_RI_Monthly_Vzemania
+147.038
+
+J_RI_Daily_GR_SPRCLM
+1000000
+
+J_RI_Agent_Controlling_GWP 
+500000
+
+J_DS83_Daily_GL
+500000
+
+total: 4,418,604
+
+
+viki
+SQ_Daily_Reserves_OLF
+1 mill
+
+SQ_Daily_RawData_OLF
+2 mill
+
+
+total:10 milli
+
+vesko
+
+10 miliona
